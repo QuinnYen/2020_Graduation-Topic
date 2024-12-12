@@ -1,5 +1,6 @@
 # 中華大學校園網頁資訊整合系統
 
+**[ 此專案建立於2020年並執行完成，之後便無任何維護計畫 ]**  
 這是一個專門為中華大學開發的校園網站資訊整合系統，透過網路爬蟲技術自動擷取和分析校園網站內容，提供更有效率的資訊搜尋服務。
 
 ## 專案簡介
@@ -86,7 +87,8 @@ python cra_with_sqllite.py
 - [ASP.NET 文件](https://docs.microsoft.com/zh-tw/aspnet/core/?view=aspnetcore-5.0)
 - [BeautifulSoup 文件](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
-## 注意事項
+## 注意事項  
+- [專案為2020年創立並執行完成，之後便無任何維護計畫]
 - 本系統需要穩定的網路連接
 - 建議使用現代瀏覽器（Chrome, Firefox, Edge 等）
 - 初次執行爬蟲可能需要較長時間
