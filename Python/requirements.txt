@@ -1,0 +1,6 @@
+# requirements.txt
+beautifulsoup4==4.12.3
+openpyxl==3.1.2
+requests==2.31.0
+jieba==0.42.1
+SQLite3==3.45.1
