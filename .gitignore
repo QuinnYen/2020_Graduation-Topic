@@ -1,0 +1,7 @@
+# 忽略 資料夾
+venv/
+__pycache__/
+*.pyc
+.idea/
+*.db
+*.sqlite
